@@ -69,7 +69,6 @@ The system uses a MySQL relational database with two main tables:
 \- `u\_occupation` (VARCHAR)
 
 
-
 \### \*\*News Table\*\*
 
 \- `news\_id` (Primary Key, Auto Increment)
