@@ -551,13 +551,13 @@ Key achievements include:
 
 
 
-\*\*Your Name\*\*
+\*\*Chaity Sarkar Borsha\*\*
 
-\- 🎓 Student at \[Your University Name]
+\- 🎓 Student at \[Metropolitan University]
 
-\- 📧 Email: your.email@example.com
+\- 📧 Email: sarkarborsha77@gmail.com
 
-\- 🐙 GitHub: \[@yourusername](https://github.com/yourusername)
+\- 🐙 GitHub: \[@BORSHA-324](https://github.com/BORSHA-324)
 
 
 
